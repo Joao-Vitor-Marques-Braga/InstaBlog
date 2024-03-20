@@ -12,5 +12,7 @@ Link para acesso ao blog hospedado na vercel -> https://insta-blog-vercel.vercel
 
 <h1>Para ter acesso ao código utilize:</h1>
   - git clone
+  
   - npm install
+  - 
   - npm run dev
