@@ -11,6 +11,7 @@ A aplicação tem design responsivo sendo possível executar em desktop e mobile
 Link para acesso ao blog hospedado na vercel -> https://insta-blog-vercel.vercel.app/
 
 <h1>Para ter acesso ao código utilize:</h1>
+
   - git clone
   
   - npm install
