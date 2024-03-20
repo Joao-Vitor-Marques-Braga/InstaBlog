@@ -14,5 +14,5 @@ Link para acesso ao blog hospedado na vercel -> https://insta-blog-vercel.vercel
   - git clone
   
   - npm install
-  - 
+    
   - npm run dev
