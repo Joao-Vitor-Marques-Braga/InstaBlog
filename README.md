@@ -1,4 +1,4 @@
-#InstaBlog
+<h1>InstaBlog</h1>
 
 ![image](https://github.com/Joao-Vitor-Marques-Braga/InstaBlog/assets/102833436/96e83acd-f60d-4865-b492-c412e9fd7873)
 
