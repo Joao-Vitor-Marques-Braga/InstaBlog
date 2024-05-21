@@ -1,4 +1,3 @@
-import React, { useState } from 'react';
 import { Link } from 'react-router-dom'
 
 export default function NavBar() {
@@ -9,9 +8,13 @@ export default function NavBar() {
                 <Link to="/"><h1 className='text-4xl font-bold'>InstaBlog.</h1></Link>
             </div>
 
-            <div className='my-auto max-md:hidden'>
-                <Link className='mx-5 font-medium' to="/">Home</Link>
+            <div className='my-auto max-md:hidden flex flex-row'>
+                <Link className='mx-5 font-medium' to="/Home">Home</Link>
                 <Link className='mx-5 font-medium' to="/CreatePost">Criar Publicação</Link>
+                <Link className='mx-5 font-medium flex flex-row' to="/Profile">
+                    <div className='w-8 h-8 bg-black rounded-full mx-2'></div> 
+                    Perfil
+                </Link>
             </div>
         </nav>
     )
